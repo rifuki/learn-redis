@@ -1,0 +1,5 @@
+set pikachu "Pikachu is an electric-type Pokémon recognized for its lightning-bolt tail and cute demeanor."
+set eevee "Eevee, a versatile Pokémon, can evolve into various forms depending on conditions or elements."
+set mew "Mew is a rare and mystical Pokémon with the ability to learn and use any move."
+set celebi " Celebi, a time-traveling Pokémon, has the power to travel through time and heal nature."
+set charmander "Charmander, a fire-type Pokémon, has a flame on its tail that signifies its health and emotions."
